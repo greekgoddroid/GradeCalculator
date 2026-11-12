@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Student grade: " + grade);
         System.out.println("Learning Java with IntelliJ IDEA");
+        System.out.println("Project cloned successfully!");
     }
 }
