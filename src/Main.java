@@ -3,5 +3,6 @@ public class Main {
         double grade = 18.5;
 
         System.out.println("Student grade: " + grade);
+        System.out.println("Learning Java with IntelliJ IDEA");
     }
 }
